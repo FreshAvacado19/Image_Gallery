@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding:0;
+    font-family: 'Times New Roman', Times, serif;
+}
+nav{
+    overflow: hidden;
+    background: #fdfcfd;
+    line-height: 30px;
+}
+nav a{
+    float: left;
+    display: block;
+    width: 100px;
+    text-align: center;
+    padding: 18px 20px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 700;
+    color: #130202;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    color: #fdfcfd;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.gallery{
+    margin: 10px 50px;
+}
+.gallery img{
+    width: 230px;
+    padding: 5px;
+    transition: 1s;
+}
